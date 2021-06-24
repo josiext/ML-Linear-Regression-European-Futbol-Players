@@ -1,4 +1,4 @@
-# ML - Regresion Lineal - European Futbol Players
+# ML - Linear Regression - European Futbol Players
 
 Machine learning project with Python.
 
